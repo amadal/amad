@@ -328,6 +328,11 @@ h2{
     cursor: pointer; 
 }  
 
+@media (min-width: 576px) {
+      .col {
+        padding-left: 38px;
+    }
+    }
 
 
 
